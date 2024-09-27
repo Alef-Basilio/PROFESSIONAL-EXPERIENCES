@@ -12,8 +12,9 @@ methodologies with other people. To do this, I used knowledge acquired in course
 experienced programmers.
 
 <h2>Example</h2>
+Before
 <p align="center">
-  Before
+  
   <p align="center">
     <img src="./public/assets/images/interface.png" width="100%">
   </p>
