@@ -15,12 +15,12 @@ experienced programmers.
 Before
 <p align="center">
   <p align="center">
-    <img src="./images/ntprayercom_before" width="100%">
+    <img src="./images/ntprayercom_before.jpg" width="100%">
   </p>
 </p>
 After
 <p align="center">
   <p align="center">
-    <img src="./images/ntprayercom_after" width="100%">
+    <img src="./images/ntprayercom_after.jpg" width="100%">
   </p>
 </p>
