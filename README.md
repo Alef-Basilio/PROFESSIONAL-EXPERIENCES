@@ -1,6 +1,5 @@
 <h1 align="center" style="color: #805ad5; font-weight: bold;">Professional experiences</h1>
-<h2>Volunteer</h2>
-Cybermissions</br>
+<h2>Volunteer at Cybermissions</h2>
 09/2024 – current - remote
 </br></br>
 • JavaScript, Sass, Gulp.js, Git, HTML and CSS.</br>
