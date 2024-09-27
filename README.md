@@ -1,5 +1,5 @@
 <h1 align="center" style="color: #805ad5; font-weight: bold;">Professional experiences</h1>
-Volunteer</br>
+<h2>Volunteer</h2>
 Cybermissions</br>
 09/2024 – current - remote
 </br></br>
@@ -11,7 +11,7 @@ content for underprivileged people.</br>
 methodologies with other people. To do this, I used knowledge acquired in courses with more
 experienced programmers.
 
-<h2>Example</h2>
+<h3>Example</h3>
 Before
 <p align="center">
   <p align="center">
