@@ -14,13 +14,12 @@ experienced programmers.
 <h2>Example</h2>
 Before
 <p align="center">
-  
   <p align="center">
     <img src="./public/assets/images/interface.png" width="100%">
   </p>
 </p>
+After
 <p align="center">
-  After
   <p align="center">
     <img src="./public/assets/images/interface.png" width="100%">
   </p>
