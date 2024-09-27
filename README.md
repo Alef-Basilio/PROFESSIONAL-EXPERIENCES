@@ -10,3 +10,15 @@ content for underprivileged people.</br>
 • Leadership: although it was my first professional experience, I needed to define work
 methodologies with other people. To do this, I used knowledge acquired in courses with more
 experienced programmers.
+
+<h2>Example</h2>
+<p align="center">
+  ##Before
+  <p align="center">
+    <img src="./public/assets/images/interface.png" width="100%">
+  </p>
+  ##After
+  <p align="center">
+    <img src="./public/assets/images/interface.png" width="100%">
+  </p>
+</p>
