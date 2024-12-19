@@ -3,6 +3,7 @@
 09/2024 – 12/2024 - remote
 </br></br>
 • JavaScript, Sass, Gulp.js, Git, HTML and CSS.</br>
+• I received an Formal Reference on Cybermissions Letterhead.
 • Cybermissions is a Virginia (USA) non-profit organization 501(c)(3) that provides training and religious
 content for underprivileged people since 2001 to over 1.2 million users and 150 countries annually.</br>
 • I updated the organization's Ntprayercom website weekly: interfaces, features and server, increasing the project deployment from 14% to 42%.</br>
