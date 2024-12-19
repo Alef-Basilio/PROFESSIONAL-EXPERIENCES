@@ -4,8 +4,8 @@
 </br></br>
 • JavaScript, Sass, Gulp.js, Git, HTML and CSS.</br>
 • Cybermissions is a Virginia (USA) non-profit organization 501(c)(3) that provides training and religious
-content for underprivileged people since 2001 to over 1.2 million people and 150 countries annually.</br>
-• I updated the organization's ntprayercom website weekly: interfaces, features and server, increasing the project deployment from 14% to 42%.</br>
+content for underprivileged people since 2001 to over 1.2 million users and 150 countries annually.</br>
+• I updated the organization's Ntprayercom website weekly: interfaces, features and server, increasing the project deployment from 14% to 42%.</br>
 • Leadership: although it was my first professional experience, I needed to define work
 methodologies with other people. To do this, I used knowledge acquired in courses with more
 experienced programmers.
