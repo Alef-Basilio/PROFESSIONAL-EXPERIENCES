@@ -23,7 +23,7 @@ After
     <img src="./images/ntprayercom_after.jpg" width="100%">
   </p>
 </p>
-<h3>Formal reference on Cybermissions letterhead</h3>
+<h3>Formal Reference on Cybermissions Letterhead</h3>
 <p align="center">
   <p align="center">
     <img src="./images/Alef_reference.jpg" width="100%">
