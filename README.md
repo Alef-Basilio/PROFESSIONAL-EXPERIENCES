@@ -15,10 +15,10 @@ experienced programmers.
 Before
 <p align="center">
   <p align="center">
-    <img src="./images/ntprayercom_before.jpg" width="49%" style="margin-right: 2px;">
+    <img src="./images/ntprayercom_before.jpg" width="49%">
   </p>
   <p align="center">
-    <img src="./images/101Course old page mobile.jpg" width="49%">
+    <img src="./images/101Course old page mobile.jpg" width="40%">
   </p>
 </p>
 After
