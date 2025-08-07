@@ -18,7 +18,7 @@ Before
     <img src="./images/ntprayercom_before.jpg" width="49%">
   </p>
   <p align="center">
-    <img src="./images/101Course old page mobile.jpg" width="40%">
+    <img src="./images/101Course old page mobile.jpg" width="20%">
   </p>
 </p>
 After
