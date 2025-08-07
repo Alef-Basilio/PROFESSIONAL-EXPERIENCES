@@ -13,12 +13,12 @@ experienced programmers.
 
 <h3>Example</h3>
 Before
-<p align="center" style="display: flex; justify-content: space-around;">
+<p align="center">
   <p align="center">
-    <img src="./images/ntprayercom_before.jpg" width="50%">
+    <img src="./images/ntprayercom_before.jpg" width="49%" style="margin-right: 2px;">
   </p>
   <p align="center">
-    <img src="./images/101Course old page mobile.jpg" width="50%">
+    <img src="./images/101Course old page mobile.jpg" width="49%">
   </p>
 </p>
 After
