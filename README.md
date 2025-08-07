@@ -18,7 +18,7 @@ Before
     <img src="./images/ntprayercom_before.jpg" width="100%">
   </p>
   <p align="center">
-    <img src="./images/101Course old page mobile.jpg" width="30%">
+    <img alt="Reload the page to see" src="./images/101Course old page mobile.jpg" width="30%">
   </p>
 </p>
 After
@@ -27,7 +27,7 @@ After
     <img src="./images/ntprayercom_after.jpg" width="100%">
   </p>
   <p align="center">
-    <img src="./images/101Course new page mobile 1.jpg" width="30%">
+    <img alt="Reload the page to see" src="./images/101Course new page mobile 1.jpg" width="30%">
   </p>
 </p>
 <h3>Formal Reference on Cybermissions Letterhead</h3>
