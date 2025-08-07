@@ -13,8 +13,8 @@ experienced programmers.
 
 <h3>Example</h3>
 Before
-<p align="center">
-  <p align="center" style="display: flex; justify-content: space-around;">
+<p align="center" style="display: flex; justify-content: space-around;">
+  <p align="center">
     <img src="./images/ntprayercom_before.jpg" width="50%">
   </p>
   <p align="center">
