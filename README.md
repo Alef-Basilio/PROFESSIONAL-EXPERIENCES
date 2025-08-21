@@ -1,6 +1,6 @@
 <h1 align="center" style="font-weight: bold;">Professional experiences</h1>
 <h2>Full-stack web developer volunteer at Cybermissions</h2>
-09/2024 – 12/2024 - remote
+08/2024 – 12/2024 - remote
 </br></br>
 • JavaScript, Sass, Gulp.js, Git, HTML and CSS.</br>
 • I received a Formal Reference on Cybermissions Letterhead (see below).</br>
