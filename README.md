@@ -2,7 +2,7 @@
 <h2>Full-stack web developer volunteer at Cybermissions</h2>
 08/2024 – 12/2024 - remote
 </br></br>
-• JavaScript, Sass, Gulp.js, Git, HTML and CSS.</br>
+• JavaScript, Sass, Gulp.js, Node.js, Git, HTML and CSS.</br>
 • I received a Formal Reference on Cybermissions Letterhead (see below).</br>
 • Cybermissions is a Virginia (USA) non-profit organization 501(c)(3) that provides training and religious
 content for underprivileged people since 2001 to over 1.2 million users and 150 countries annually.</br>
